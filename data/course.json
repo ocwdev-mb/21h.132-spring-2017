@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Ancient History"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "legacy_uid": "e2fe28f5-4992-091f-8761-33df884c7498",
+  "instructors": {
+    "content": [
+      "6443d9d8-ee82-be65-28f7-6fd13ac40b18"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8784e11e-727a-108e-fb93-5846c2648593",
+    "website": "21h-132-the-ancient-world-rome-spring-2017"
+  },
+  "course_title": "The Ancient World: Rome",
+  "course_description": "This course covers the history of Rome from its humble beginnings to the 5th century A.D. The first half covers Kingship to Republican form; the conquest of Italy; Roman expansion: Pyrrhus, Punic Wars and provinces; classes, courts, and the Roman revolution; Augustus and the formation of empire. The second half covers Virgil to the Vandals; major social, economic, political and religious trends at Rome and in the provinces. There is an emphasis on the use of primary sources in translation.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.132",
+  "course_image_thumbnail": {
+    "content": "062620d2-694b-9c38-15a9-cc93b66c41a6",
+    "website": "21h-132-the-ancient-world-rome-spring-2017"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "fe9d62aa-a56e-44e5-84a1-826b2d525795",
+  "site_short_id": "21h.132-spring-2017",
+  "title": "Course Metadata"
+}
